@@ -1,1 +1,1 @@
-
+This draft notebook explores how to visualise scientific performance vs. computational/energy cost using CMIP-style data (like the CMIP6 GMD paper table). It is designed to work directly with a table in the same shape as CPMIPs_for_CMIP6__GMD_paper_data_.xlsx (sheet CPMIP metrics), but is structured so you can point it at any similarly-shaped dataset. Most likely it will need updating to reflect the layout of the CMIP7 data collected, and at the moment it produces basic plots. **There is no skill scores** so this needs to be looked at and sorted out. 
